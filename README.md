@@ -1,1 +1,9 @@
 # MT22-Q3Rainfall
+
+---
+
+## Graph the monthly average rainfall in Melbourne and Oxford
+- Information about the source of the two data sets is in data-source.txt
+- Run the combine-data.R script to create the data set in average-rainfall.csv (also can be found in the data_combined folder)
+- Run the make-plot.R script to create the figure
+
